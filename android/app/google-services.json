@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725465312237",
+    "project_id": "radar-push-99253",
+    "storage_bucket": "radar-push-99253.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725465312237:android:2f8b463fd48f284f3995e4",
+        "android_client_info": {
+          "package_name": "com.example.radar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9pn0j-AOtbtxUNpikqh6vzF_Nz5N3wvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
